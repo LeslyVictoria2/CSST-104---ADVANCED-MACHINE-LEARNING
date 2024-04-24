@@ -30,7 +30,7 @@ Welcome to my compilation of Exercises, Laboratory and Midterm Exam! Below, you'
 ### Data Analysis Projects
 
 1. **Exploratory Data Analysis (EDA) on Sales Data:** Conducted EDA on a retail dataset to identify trends, patterns, and correlations, leading to actionable insights for business stakeholders.
-[Data Analysis and Report]([https://colab.research.google.com/drive/1ZLXxkX_5v_e1NP1ClXiATy2hILXwPcAx#scrollTo=phkkOE8iFAx7])
+<a href="(https://colab.research.google.com/drive/1ZLXxkX_5v_e1NP1ClXiATy2hILXwPcAx#scrollTo=phkkOE8iFAx7)">Data Analysis and Report</a>
 
 3. **Customer Segmentation Using K-Means Clustering:** Applied K-means clustering to segment customers based on their purchasing behavior, enabling targeted marketing strategies.
 
