@@ -1,13 +1,10 @@
-**Link and Compilation of Exercises, Laboratory and Midterm Exam using github.**
-# Activities and Projects Compilation
+# Link and Compilation of Exercises, Laboratory and Midterm Exam using github.
 
 ## Introduction
-
-Welcome to my compilation of activities and projects! Below, you'll find a summary of my key projects and activities related to computer courses, data science, machine learning, and quantitative methods.
+Welcome to my compilation of Exercises, Laboratory and Midterm Exam! Below, you'll find a summary of my key Exercises, Laboratory and Midterm Exam related to CSST 104 -  Advanced Machine Learning Course, Data Science, Machine Learning, and Quantitative Methods.
 
 ## Table of Contents
-
-1. [Computer Courses](#computer-courses)
+1. [CSST 104 -  Advanced Machine Learning Course](#computer-courses)
 2. [Data Science](#data-science)
 3. [Machine Learning](#machine-learning)
 4. [Quantitative Methods](#quantitative-methods)
@@ -33,8 +30,9 @@ Welcome to my compilation of activities and projects! Below, you'll find a summa
 ### Data Analysis Projects
 
 1. **Exploratory Data Analysis (EDA) on Sales Data:** Conducted EDA on a retail dataset to identify trends, patterns, and correlations, leading to actionable insights for business stakeholders.
+[Data Analysis and Report]([https://colab.research.google.com/drive/1ZLXxkX_5v_e1NP1ClXiATy2hILXwPcAx#scrollTo=phkkOE8iFAx7])
 
-2. **Customer Segmentation Using K-Means Clustering:** Applied K-means clustering to segment customers based on their purchasing behavior, enabling targeted marketing strategies.
+3. **Customer Segmentation Using K-Means Clustering:** Applied K-means clustering to segment customers based on their purchasing behavior, enabling targeted marketing strategies.
 
 ### Machine Learning Projects
 
