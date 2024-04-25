@@ -24,4 +24,4 @@ Below, you'll find a summary of my laboratory work, exercises and the midterm ex
 
 ## Exercises
 ## Midterm Exam
-</div>
+</body>
