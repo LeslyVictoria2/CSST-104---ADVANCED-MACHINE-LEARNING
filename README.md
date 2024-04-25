@@ -1,55 +1,93 @@
 # Link and Compilation of Exercises, Laboratory and Midterm Exam using github.
 
-## Introduction
-Welcome to my compilation of Exercises, Laboratory and Midterm Exam! Below, you'll find a summary of my key Exercises, Laboratory and Midterm Exam related to CSST 104 -  Advanced Machine Learning Course, Data Science, Machine Learning, and Quantitative Methods.
+from bs4 import BeautifulSoup
 
-## Table of Contents
-1. [CSST 104 -  Advanced Machine Learning Course](#computer-courses)
-2. [Data Science](#data-science)
-3. [Machine Learning](#machine-learning)
-4. [Quantitative Methods](#quantitative-methods)
-5. <a href="Amazon-Prime-Videos-Analysis/README.md">Amazon Prime</a>
-6. <a href="[Amazon-Prime-Videos-Analysis/Amazon.ipynb](https://colab.research.google.com/drive/1MBpbgrHbtJrRxnoT4XP_L8BZGOj-lROQ)">Amazon Prime Code</a>
+# Create BeautifulSoup object
+html_content = BeautifulSoup(features="html.parser")
 
-## Computer Courses
+# Create the head tag and append title
+head_tag = html_content.new_tag("head")
+title_tag = html_content.new_tag("title")
+title_tag.string = "CSST 104 - Activities and Exercises"
+head_tag.append(title_tag)
+html_content.append(head_tag)
 
-### Programming Courses
+# Create the style tag and append CSS styles
+style_tag = html_content.new_tag("style")
+style_tag.string = """
+        .btn-container {
+            border: 1px solid #ccc;
+            padding: 10px;
+            width: fit-content;
+        }
 
-1. **Introduction to Programming:** Developed and delivered a beginner-level programming course covering fundamental concepts such as variables, control structures, and functions.
+        .btn-container button {
+            display: block;
+            background-color: #f1f1f1;
+            border: 1px solid #ccc;
+            margin-bottom: 5px;
+            padding: 10px;
+            width: 200px; /* Set a fixed width for the buttons */
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
 
-2. **Advanced Programming Techniques:** Created a course focusing on advanced programming techniques such as data structures, algorithms, and object-oriented programming principles.
+        .btn-container button:hover {
+            background-color: #ddd;
+        }
 
-### Web Development Projects
+        .btn-container button.active {
+            background-color: #ccc;
+        }
+"""
+html_content.head.append(style_tag)
 
-1. **E-commerce Website:** Designed and implemented an e-commerce website using HTML, CSS, and JavaScript, integrating features such as user authentication, product listings, and shopping cart functionality.
+# Create the body tag and append content
+body_tag = html_content.new_tag("body")
 
-2. **Blog Application:** Developed a blog application using Django, allowing users to create, edit, and delete blog posts, as well as comment on posts.
+# Append the h1 tag
+h1_tag = html_content.new_tag("h1")
+h1_tag.string = "CSST 104 - Activities and Exercises"
+body_tag.append(h1_tag)
 
-## Data Science
+# Append the paragraph
+p_tag = html_content.new_tag("p")
+p_tag.string = "I am Jonathan Q. Laganzon, a BSCS-IS-3B student. This webpage contains my exercises and activities for CSST 104. The activities and exercises focus on building models for regression or prediction, allowing me to explore and apply various concepts in data science and statistical modeling."
+body_tag.append(p_tag)
 
-### Data Analysis Projects
+# Append the Activities section
+h2_activities_tag = html_content.new_tag("h2")
+h2_activities_tag.string = "Activities:"
+body_tag.append(h2_activities_tag)
 
-1. **Exploratory Data Analysis (EDA) on Sales Data:** Conducted EDA on a retail dataset to identify trends, patterns, and correlations, leading to actionable insights for business stakeholders.
-<a href="(https://colab.research.google.com/drive/1ZLXxkX_5v_e1NP1ClXiATy2hILXwPcAx#scrollTo=phkkOE8iFAx7)">Data Analysis and Report</a>
+div_activities_tag = html_content.new_tag("div", attrs={"class": "btn-container"})
+activities_links = [
+    "https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB1.ipynb",
+]
+for i, link in enumerate(activities_links, start=1):
+    button_tag = html_content.new_tag("button", onclick=f"window.open('{link}', '_blank')")
+    button_tag.string = f"Activity {i}"
+    div_activities_tag.append(button_tag)
+body_tag.append(div_activities_tag)
 
-3. **Customer Segmentation Using K-Means Clustering:** Applied K-means clustering to segment customers based on their purchasing behavior, enabling targeted marketing strategies.
+# Append the Exercises section
+h2_exercises_tag = html_content.new_tag("h2")
+h2_exercises_tag.string = "Exercises:"
+body_tag.append(h2_exercises_tag)
 
-### Machine Learning Projects
+div_exercises_tag = html_content.new_tag("div", attrs={"class": "btn-container"})
+exercises_links = [
+    "https://github.com/laganzonj/exercise_activity-CSST104-3B/blob/ef12d6f62645f822e078fd9884b2ee19e68b1575/Exercises/3B-LAGANZON-EXER1.ipynb",
+ 
+]
+for i, link in enumerate(exercises_links, start=1):
+    button_tag = html_content.new_tag("button", onclick=f"window.open('{link}', '_blank')")
+    button_tag.string = f"Exercise {i}"
+    div_exercises_tag.append(button_tag)
+body_tag.append(div_exercises_tag)
 
-1. **Predictive Modeling for Loan Approval:** Built a machine learning model to predict loan approval decisions based on applicant information, achieving an accuracy of 85% on the test dataset.
+# Append body to HTML content
+html_content.append(body_tag)
 
-2. **Image Classification with Convolutional Neural Networks (CNNs):** Implemented a CNN-based image classifier to classify images into different categories, achieving state-of-the-art accuracy on benchmark datasets.
-
-## Quantitative Methods
-
-### Statistical Analysis Projects
-
-1. **Regression Analysis on Housing Prices:** Conducted regression analysis to model the relationship between housing prices and various predictors such as location, size, and amenities.
-
-2. **Time Series Forecasting:** Developed time series forecasting models using techniques such as ARIMA and exponential smoothing to predict future sales or demand trends.
-
-## Conclusion
-
-This compilation provides a snapshot of my activities and projects across various domains. I'm passionate about leveraging technology and data-driven insights to solve real-world problems and drive innovation.
-
-Feel free to reach out if you'd like to learn more about any specific project or collaborate on future endeavors!
+# Print or save the HTML content
+print(html_content.prettify())
