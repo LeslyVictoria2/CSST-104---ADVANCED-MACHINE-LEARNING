@@ -28,5 +28,6 @@ Below, you'll find a summary of my laboratory work, exercises and the midterm ex
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:lightblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_EXER1.ipynb">Exercises 1</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:lightblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_EXER2.ipynb">Exercises 2</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:lightblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_EXER3.ipynb">Exercises 3</a>
+<a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:lightblue; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_EXER4.ipynb">Exercises 4</a>
 ### My Midterm Exam
 ## Conclusion:
