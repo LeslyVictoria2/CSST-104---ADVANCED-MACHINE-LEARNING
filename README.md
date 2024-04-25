@@ -9,20 +9,22 @@ Welcome to my compilation of laboratory work, exercises and midterm exam for CSS
 These materials cover topics in Data Science, Machine Learning, and Quantitative Methods. 
 Below, you'll find a summary of my laboratory work, exercises and the midterm exam related to the subject.
 
-## Table of Contents
-1. [CSST 104 - Advanced Machine Learning](#CSST_104_-_Advanced_Machine_Learning)
-2. [My Laboratory Work](#My_Laboratory_Work)
-3. [My Exercises](#My_Exercises)
-4. [My Midterm Exam](#My_Midterm_Exam)
+## Table of Contents:
+## Table of Contents:
+1. <a href="#csst-104---advanced-machine-learning" style="color: red;">CSST 104 - Advanced Machine Learning</a>
+2. <a href="#my-laboratory-work" style="color: red;">My Laboratory Work</a>
+3. <a href="#my-exercises" style="color: red;">My Exercises</a>
+4. <a href="#my-midterm-exam" style="color: red;">My Midterm Exam</a>
 
-## CSST 104 - Advanced Machine Learning
+### CSST 104 - Advanced Machine Learning
 
-## My Laboratory Work
+### My Laboratory Work
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgray; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB1.ipynb">Laboratory 1</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgray; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB2.ipynb">Laboratory 2</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgray; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB3.ipynb">Laboratory 3</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgray; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB4.ipynb">Laboratory 4</a>
 <a style="color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px; background-color:darkgray; border: 2px solid white;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB5.ipynb">Laboratory 5</a>
 
-## My Exercises
-## My Midterm Exam
+### My Exercises
+### My Midterm Exam
+## Conclusion:
