@@ -1,4 +1,4 @@
-<div style="background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg'); background-size: cover; padding: 100px;">
+<body style="background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg'); background-size: cover; padding: 100px;">
 ## "Link and Compilation of Laboratory Work, Exercises and Midterm Exam using github"
 
 ## Introduction:
