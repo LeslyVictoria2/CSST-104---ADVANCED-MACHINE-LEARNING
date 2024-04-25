@@ -1,4 +1,4 @@
-<body style="background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg'); background-size: cover; padding: 100px;">
+<body style="background-image: url('https://developer-blogs.nvidia.com/wp-content/uploads/2023/06/deep-learning-visual.png'); background-size: cover; padding: 100px; color: white;">
 
 <h2>"Link and Compilation of Laboratory Work, Exercises and Midterm Exam using github"</h2>
 
@@ -17,11 +17,11 @@ Below, you'll find a summary of my laboratory work, exercises and the midterm ex
 ## CSST 104 - Advanced Machine Learning
 
 ## Laboratory Work
-1. <a style="color:black; background-color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB1.ipynb">Laboratory 1</a>
-2. <a style="color:black; background-color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB2.ipynb">Laboratory 2</a>
-3. <a style="color:black; background-color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB3.ipynb">Laboratory 3</a>
-4. <a style="color:black; background-color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB4.ipynb">Laboratory 4</a>
-5. <a style="color:black; background-color:white; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB5.ipynb">Laboratory 5</a>
+<a style="color:white; background-color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB1.ipynb">Laboratory 1</a>
+<a style="color:white; background-color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB2.ipynb">Laboratory 2</a>
+<a style="color:white; background-color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB3.ipynb">Laboratory 3</a>
+<a style="color:white; background-color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB4.ipynb">Laboratory 4</a>
+<a style="color:white; background-color:black; padding: 10px; border-radius: 5px; text-decoration:none; display: inline-block; margin-bottom: 10px;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB5.ipynb">Laboratory 5</a>
 
 ## Exercises
 ## Midterm Exam
