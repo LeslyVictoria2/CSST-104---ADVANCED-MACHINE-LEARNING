@@ -1,4 +1,4 @@
-<body style="background-image: url('https://developer-blogs.nvidia.com/wp-content/uploads/2023/06/deep-learning-visual.png'); background-size: cover; padding: 100px;">
+<body style="background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg'); background-size: cover; padding: 100px;">
 
 <h2>"Link and Compilation of Laboratory Work, Exercises and Midterm Exam using github"</h2>
 
