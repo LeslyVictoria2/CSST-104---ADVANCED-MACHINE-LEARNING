@@ -1,3 +1,4 @@
+<div style="background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg'); background-size: cover; padding: 100px;">
 ## "Link and Compilation of Laboratory Work, Exercises and Midterm Exam using github"
 
 ## Introduction:
@@ -15,40 +16,12 @@ Below, you'll find a summary of my laboratory work, exercises and the midterm ex
 ## CSST 104 - Advanced Machine Learning
 
 ## Laboratory Work
-1. [Laboratory 1](https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB1.ipynb)
-2. [Laboratory 2](https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB2.ipynb)
-3. [Laboratory 3](https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB3.ipynb)
-4. [Laboratory 4](https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB4.ipynb)
-5. [Laboratory 5](https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB5.ipynb)
+1. <a style="background-color:white; color:black; padding: 10px; border-radius: 5px; text-decoration:none;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB1.ipynb">Laboratory 1</a>
+2. <a style="background-color:white; color:black; padding: 10px; border-radius: 5px; text-decoration:none;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB2.ipynb">Laboratory 2</a>
+3. <a style="background-color:white; color:black; padding: 10px; border-radius: 5px; text-decoration:none;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB3.ipynb">Laboratory 3</a>
+4. <a style="background-color:white; color:black; padding: 10px; border-radius: 5px; text-decoration:none;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB4.ipynb">Laboratory 4</a>
+5. <a style="background-color:white; color:black; padding: 10px; border-radius: 5px; text-decoration:none;" href="https://github.com/LeslyVictoria2/CSST-104---ADVANCED-MACHINE-LEARNING/blob/main/3B_VICTORIA_LAB5.ipynb">Laboratory 5</a>
 
 ## Exercises
 ## Midterm Exam
-
-<style>
-.button {
-  display: inline-block;
-  border-radius: 4px;
-  background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg');
-  background-size: cover;
-  background-position: center;
-  border: none;
-  color: #FFFFFF;
-  text-align: center;
-  font-size: 18px;
-  padding: 10px;
-  width: 200px;
-  transition: all 0.5s;
-  cursor: pointer;
-  margin: 5px;
-}
-
-.button:hover {
-  opacity: 0.8;
-}
-</style>
-
-<script>
-document.querySelectorAll('a').forEach(link => {
-  link.classList.add('button');
-});
-</script>
+</div>
