@@ -23,3 +23,32 @@ Below, you'll find a summary of my laboratory work, exercises and the midterm ex
 
 ## Exercises
 ## Midterm Exam
+
+<style>
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-image: url('https://img.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117812.jpg');
+  background-size: cover;
+  background-position: center;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 18px;
+  padding: 10px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+</style>
+
+<script>
+document.querySelectorAll('a').forEach(link => {
+  link.classList.add('button');
+});
+</script>
